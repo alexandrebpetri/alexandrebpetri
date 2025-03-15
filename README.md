@@ -4,7 +4,9 @@
 
 <br clear="both">
 
-<p align="left">My name is Alexandre Petri, I'm 15 years old and I study at the Federal Technological University of Paraná (UTFPR). <br>I am studying the second period of the technical course in computer science for the internet.</p>
+<p align="center">
+  My name is Alexandre Petri, I'm 15 years old and I study at the Federal Technological University of Paraná (UTFPR). <br>I am studying the second period of the technical course in computer science for the internet.
+</p>
 
 ###
 
@@ -35,7 +37,6 @@
 <br clear="both">
 
 <div align="center">
-<h2 align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=javascript,python,html,css,mysql,git,github)](https://skillicons.dev)
 </div>
