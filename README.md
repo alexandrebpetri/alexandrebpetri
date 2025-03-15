@@ -50,7 +50,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrebpetri&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrebpetri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandrebpetri&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
