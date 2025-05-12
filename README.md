@@ -5,7 +5,7 @@
 <br clear="both">
 
 <p align="center">
-  My name is Alexandre Petri, I'm 15 years old and I study at the Federal Technological University of Paraná (UTFPR). <br>I am studying the second period of the technical course in computer science for the internet.
+  My name is Alexandre Petri, I'm 16 years old and I study at the Federal Technological University of Paraná (UTFPR). <br>I am studying the second period of the technical course in computer science for the internet.
 </p>
 
 ###
