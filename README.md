@@ -1,63 +1,68 @@
-<h1 align="left">- 👋 About me:</h1>
 
-###
-
-<br clear="both">
+<h1 align="center">👋 Olá, eu sou Alexandre Petri!</h1>
 
 <p align="center">
-  My name is Alexandre Petri, I'm 17 years old and I study at the Federal Technological University of Paraná (UTFPR). <br>I am studying the third period of the technical course in computer science for the internet.
+  💻 Estudante de Informática | 🚀 Desenvolvedor em formação
 </p>
 
-###
+---
 
-<h2 align="left">- 🔎 Contacts:</h2>
+<h2>👨‍💻 Sobre mim</h2>
 
-###
+<p>
+  Meu nome é Alexandre Petri, tenho 17 anos e sou estudante
+  da Universidade Tecnológica Federal do Paraná (UTFPR),
+  cursando o terceiro período do curso técnico em
+  Informática para a Internet.
+  <br><br>
+  Possuo conhecimentos em desenvolvimento web, programação, algoritmos, bancos de dados e análise e projeto de sistemas,
+  abrangendo tanto frontend quanto backend. Tenho familiaridade com ferramentas de prototipagem, organização e gerenciamento
+  de projetos, além de habilidades em trabalho em equipe, versionamento de código e desenvolvimento colaborativo.
+</p>
 
-<br clear="both">
+---
+
+<h2>🛠️ Linguagens e Tecnologias</h2>
 
 <div align="center">
+
+  <img src="https://skillicons.dev/icons?i=javascript,ts,html,css,react,postgres,nodejs,git,github" />
+
+</div>
+
+---
+
+
+<h2>🚀 Projetos em Destaque</h2>
+
+- 🦖 **[Jurassic Hub](https://github.com/alexandrebpetri/Alexandre-projeto-4-bimestre)**  
+  Plataforma de jogos desenvolvida com tecnologias web, oferecendo um catálogo interativo, gerenciamento de jogos e funcionalidades de compra e organização de biblioteca.
+
+- 🤖 **[TBOTT Web](https://github.com/Victor-Hugo-Freire/TBOTT_web)**  
+  Projeto acadêmico desenvolvido em equipe como parte de um trabalho escolar. Consiste em um jogo do gênero **Roguelike**, no qual contribuo para o desenvolvimento da aplicação web, colaborando com a equipe na implementação de funcionalidades e no aprimoramento da interface e da experiência do usuário.
+
+
+---
+
+<h2>📫 Entre em contato</h2>
+
+<div align="center">
+
   <a href="https://www.instagram.com/ale_bpetri/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
   <a href="https://discord.gg/3MwKSfx7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://contacts.google.com/person/c5063281675686028515" target="_blank">
+  
+ <a href="https://contacts.google.com/person/c5063281675686028515" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
-###
-
-<h2 align="left">- 🧩 Languages ​​and Technologies:</h2>
-
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  
-  [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,mysql,react,github)](https://skillicons.dev)
+  <img src="https://raw.githubusercontent.com/alexandrebpetri/alexandrebpetri/output/snake.svg" alt="Animação da cobrinha dos commits" />
 </div>
-
-###
-
-<h2 align="left">- 📐 Stats:</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandrebpetri&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrebpetri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandrebpetri&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/alexandrebpetri/alexandrebpetri/output/snake.svg" alt="Snake animation" />
-
-###
